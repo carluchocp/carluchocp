@@ -1,6 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
+
 ### Hi there 👋, my name is Carlo Carpentieri
 #### I am a Full-Stack developer
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+welcome+to+my+page+💻;)](https://git.io/typing-svg)
 
 Committed Full Stack developer with good attention to detail and problem-solving skills. I am currently working on my bachelor's degree as an engineer and am proficient in React, CSS, and Python. Team player with excellent communication skills and ethics, I am a fast learner, and I am respectful and patient, including being honest and upright.
 
