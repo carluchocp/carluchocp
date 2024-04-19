@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Carlo Carpentieri
 #### I am a Full-Stack developer
 
-Committed Full Stack developer with good attention to detail and problem-solving skills. I am currently working on my bachelor's degree as an engineer and am proficient in React, CSS, and Python. Team player with excellent communication skills and ethics, I am a fast learner, and I am respectful and patient, including being honest and upright.
+Greetings! I'm a dedicated Full Stack developer, currently pursuing an engineering degree, with a strong inclination towards detail-oriented problem-solving. My journey in Full Stack Development commenced with a comprehensive bootcamp, where I gained proficiency in JavaScript, SQL, React, Python, Flask, HTML, CSS, and API integration. With a passion for crafting innovative software solutions, I thrive in collaborative environments, excelling in communication and upholding ethical standards. Eager to contribute my skills and enthusiasm to your team, I aspire to continue growing as a developer, committed to lifelong learning and professional advancement.
 
 Skills: REACT / JS / HTML / CSS / PYTHON / RUBY / SQL / FLASK
 
